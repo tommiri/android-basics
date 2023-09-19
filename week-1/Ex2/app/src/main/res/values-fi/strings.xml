@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Teht_2</string>
+    <string name="say_hello">SANO HEI</string>
+    <string name="my_app">Minun appini</string>
+    <string name="click_to_say_hello">Klikkaa sanoaksesi hei!</string>
+    <string name="hello">Hei!</string>
+</resources>
