@@ -15,9 +15,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void handleClick(View v) {
-        View clickedElement = findViewById(v.getId());
-        if (clickedElement instanceof Button) {
-            Button clickedButton = (Button) clickedElement;
+        if (v instanceof Button) {
+            Button clickedButton = (Button) v;
             clickedButton.setBackgroundTintList(getResources().getColorStateList(R.color.btnYellow));
         }
     }
