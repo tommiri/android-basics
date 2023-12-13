@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="data_fetch_error">VIRHE HAKIESSA DATAA</string>
+    <string name="imperial_switch">Käytä brittiläistä yksikköjärjestelmää</string>
+    <string name="location_switch">Käytä tarkkaa sijaintia</string>
+    <string name="weather_icon_description">Kuva, joka esittää tämänhetkisiä sääoloja</string>
+    <string name="searchbar_hint">Etsi sijaintia…</string>
+    <string name="weather_nav">Sää</string>
+    <string name="settings_nav">Asetukset</string>
+    <string name="get_weather_btn">Hae säätiedot</string>
+</resources>

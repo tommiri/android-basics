@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="default_city" translatable="false">Tampere</string>
+    <string name="data_fetch_error">ERROR WHILE FETCHING DATA</string>
+    <string name="imperial_switch">Use imperial units</string>
+    <string name="location_switch">Use precise location</string>
+    <string name="weather_icon_description">Icon depicting current weather conditions</string>
+    <string name="searchbar_hint">Search for a location…</string>
+    <string name="weather_nav">Weather</string>
+    <string name="settings_nav">Settings</string>
+    <string name="get_weather_btn">Get weather</string>
+</resources>

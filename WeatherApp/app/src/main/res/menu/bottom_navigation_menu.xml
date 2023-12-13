@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/weatherNav"
+        android:enabled="true"
+        android:icon="@drawable/cloud_24px"
+        android:title="@string/weather_nav" />
+    <item
+        android:id="@+id/settingsNav"
+        android:enabled="true"
+        android:icon="@drawable/settings_24px"
+        android:title="@string/settings_nav" />
+</menu>
